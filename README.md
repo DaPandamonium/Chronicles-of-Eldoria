@@ -32,14 +32,13 @@ python eldoria.py
 - **Code Contributions**: Want to add new features, fix bugs, or improve the code? Submit a pull request!
 - **Story Development**: Have ideas for expanding the story or adding new puzzles? Let's collaborate to make Eldoria even more mysterious and engaging.
 
-
-## Acknowledgments
-
-> A special thank you to everyone who has played the game, provided feedback, and contributed to the project. Your support and enthusiasm are what make this journey so rewarding.
-
 ## About the Developer
 
 > Developed by [@DaPandamonium](https://github.com/DaPandamonium), Chronicles of Eldoria is a project born from a passion for storytelling, game development, and the desire to learn and explore the possibilities of Python.
+
+# Demo Preview
+> Live on ![Codedex](https://www.codedex.io/@DaPanda/castle-treasure-%7C-choice-game)
+
 
 ## License
 
