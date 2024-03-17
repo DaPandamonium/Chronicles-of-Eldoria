@@ -37,7 +37,7 @@ python eldoria.py
 > Developed by [@DaPandamonium](https://github.com/DaPandamonium), Chronicles of Eldoria is a project born from a passion for storytelling, game development, and the desire to learn and explore the possibilities of Python.
 
 # Demo Preview
-> Live on ![Codedex](https://www.codedex.io/@DaPanda/castle-treasure-%7C-choice-game)
+> Live on [Codedex](https://www.codedex.io/@DaPanda/castle-treasure-%7C-choice-game)
 
 
 ## License
